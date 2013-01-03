@@ -25,9 +25,9 @@
     "node": ">=0.8.0",
     "docpad": "6.x"
   },
-  "main": "./lib/docpad.tsplugin.js",
+  "main": "./lib/docpad.tsplugin.ts",
   "dependencies": {
     "lax-typescript": "git://github.com/perpetual-motion/lax-typescript.git",
-    "docpad-jsplugin": "git://github.com/perpetual-motion/docpad-jsplugin.git"
+    "docpad-tsplugin": "git://github.com/perpetual-motion/docpad-tsplugin.git"
   }
 }

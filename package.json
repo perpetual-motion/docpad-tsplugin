@@ -27,6 +27,6 @@
   },
   "main": "./lib/docpad.tsplugin.ts",
   "dependencies": {
-    "lax-typescript": "git://github.com/perpetual-motion/lax-typescript.git",
+    "lax-typescript": "git://github.com/perpetual-motion/lax-typescript.git"
   }
 }
